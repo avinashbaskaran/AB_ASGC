@@ -1,0 +1,1 @@
+g++ -Wall -o "%e" "%f" -lm -ldl -lpthread -pthread -I/usr/include/python3.7m -I/usr/include/arm-linux-gnueabihf/python3.7m -lpython3.7m
